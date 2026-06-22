@@ -1,0 +1,22 @@
+{
+    "name": "Audio.Runtime",
+    "rootNamespace": "Audio.Runtime",
+    "references": [
+        "GUID:22aa7957bbbd6334a93cfe1893d3fbd7",
+        "GUID:be0abc06bf0845c4d8e8674eec3522df",
+        "GUID:6068de650e9a5d145886cd6a49d56f93",
+        "GUID:0eab807f819c6404faee69337da559ab",
+        "GUID:e06315347e6077b4ab2fe65e260fb2bb",
+        "GUID:3ab5763102a33a44a90386076eb53c8a",
+        "GUID:8438ae38fe1b4bb4386a0f41d3a4ad5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

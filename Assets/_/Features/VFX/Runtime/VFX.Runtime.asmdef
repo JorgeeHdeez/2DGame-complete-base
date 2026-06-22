@@ -1,0 +1,19 @@
+{
+    "name": "VFX.Runtime",
+    "rootNamespace": "VFX.Runtime",
+    "references": [
+        "GUID:be0abc06bf0845c4d8e8674eec3522df",
+        "GUID:22aa7957bbbd6334a93cfe1893d3fbd7",
+        "GUID:6068de650e9a5d145886cd6a49d56f93",
+        "GUID:8438ae38fe1b4bb4386a0f41d3a4ad5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

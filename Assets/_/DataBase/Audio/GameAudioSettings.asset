@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f1bc86045b370a4ba2508ba8820764b, type: 3}
+  m_Name: GameAudioSettings
+  m_EditorClassIdentifier: Audio.Runtime::Audio.Runtime.GameAudioSettings
+  _masterVolume: 0.8
+  _sfxVolume: 0.5

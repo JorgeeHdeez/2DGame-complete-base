@@ -1,0 +1,19 @@
+{
+    "name": "Enemy.Runtime",
+    "rootNamespace": "Enemy.Runtime",
+    "references": [
+        "GUID:be0abc06bf0845c4d8e8674eec3522df",
+        "GUID:186bf4de20084a245aafe1631b84cb4b",
+        "GUID:0eab807f819c6404faee69337da559ab",
+        "GUID:3ab5763102a33a44a90386076eb53c8a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
